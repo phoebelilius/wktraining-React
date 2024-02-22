@@ -996,7 +996,8 @@ new BlazeSlider(el2, {
               <h3 className="home-en-header22">How long are the classes?</h3>
               <p className="home-en-content21">
                 <span>
-                  Classes are one hour, with some extra for stretching and more.
+                  Classes are generally one hour, with some extra time for
+                  stretching etc.
                 </span>
                 <br></br>
               </p>

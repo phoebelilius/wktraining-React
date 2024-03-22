@@ -1918,6 +1918,10 @@
   color: var(--dl-color-primary-100);
   text-decoration: underline;
 }
+.home-es-text085 {
+  color: var(--dl-color-primary-100);
+  text-decoration: underline;
+}
 .home-es-element1 {
   gap: var(--dl-space-space-oneandhalfunits);
   width: 100%;
@@ -2038,10 +2042,10 @@
   max-width: 560px;
   line-height: 24px;
 }
-.home-es-text088 {
+.home-es-text089 {
   color: #7c7c80;
 }
-.home-es-text089 {
+.home-es-text090 {
   color: var(--dl-color-primary-100);
   text-decoration: underline;
 }
@@ -2193,7 +2197,7 @@
   width: 120px;
   object-fit: cover;
 }
-.home-es-text095 {
+.home-es-text096 {
   color: rgb(124, 124, 128);
   line-height: 24px;
 }
@@ -2317,7 +2321,7 @@
   width: var(--dl-size-size-xsmall);
   object-fit: cover;
 }
-.home-es-text103 {
+.home-es-text104 {
   color: rgb(124, 124, 128);
   font-size: 14px;
   line-height: 21px;
@@ -2366,7 +2370,7 @@
     color: rgb(124, 124, 128);
     line-height: 24px;
   }
-  .home-es-text095 {
+  .home-es-text096 {
     color: rgb(124, 124, 128);
     line-height: 24px;
   }
@@ -2485,7 +2489,7 @@
   .home-es-content20 {
     color: rgb(124, 124, 128);
   }
-  .home-es-text089 {
+  .home-es-text090 {
     text-decoration: underline;
   }
   .home-es-header22 {
@@ -2531,7 +2535,7 @@
     line-height: 32px;
     text-decoration: none;
   }
-  .home-es-text103 {
+  .home-es-text104 {
     color: rgb(124, 124, 128);
     font-size: 14px;
     line-height: 21px;
@@ -2989,6 +2993,10 @@
     font-size: 14px;
     line-height: 21px;
   }
+  .home-es-text085 {
+    font-size: 14px;
+    line-height: 21px;
+  }
   .home-es-header18 {
     font-size: 24px;
   }
@@ -3041,7 +3049,7 @@
     font-size: 14px;
     line-height: 21px;
   }
-  .home-es-text090 {
+  .home-es-text091 {
     font-size: 14px;
     line-height: 21px;
   }

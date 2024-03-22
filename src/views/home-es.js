@@ -881,7 +881,7 @@ new BlazeSlider(el2, {
               <h3 className="home-es-header17">¿Dónde son los entrenos?</h3>
               <p className="home-es-content16">
                 <span className="home-es-text082">
-                  Pueden ser en el gimnasio Spartans Fighter, en la playa de
+                  Serán en el gimnasio NextGen Fight Club, en la playa de
                   Fuengirola o por un coste extra en una locación personalizada.
                   Mándame mensaje!
                 </span>
@@ -893,8 +893,9 @@ new BlazeSlider(el2, {
                   rel="noreferrer noopener"
                   className="home-es-link08"
                 >
-                  Spartans Fighter Mijas
+                  Nex
                 </a>
+                <span className="home-es-text085">tGen Fight Club</span>
                 <br></br>
                 <br></br>
                 <br></br>
@@ -928,7 +929,7 @@ new BlazeSlider(el2, {
             <div className="home-es-element4">
               <h3 className="home-es-header21">¿Qué horario hay?</h3>
               <p className="home-es-content20">
-                <span className="home-es-text088">
+                <span className="home-es-text089">
                   Tengo horario flexible. Puedes ver las horas disponibles en mi
                   calendario.
                   <span
@@ -937,7 +938,7 @@ new BlazeSlider(el2, {
                     }}
                   />
                 </span>
-                <span className="home-es-text089">Ver disponibilidad</span>
+                <span className="home-es-text090">Ver disponibilidad</span>
               </p>
             </div>
             <div className="home-es-element5">
@@ -962,7 +963,7 @@ new BlazeSlider(el2, {
                 Tengo más preguntas, ¿cómo contacto contigo?
               </h3>
               <p className="home-es-content23">
-                <span className="home-es-text090">
+                <span className="home-es-text091">
                   Puedes escribirme por Facebook o Instagram o WhatsApp!
                 </span>
                 <br></br>
@@ -1018,7 +1019,7 @@ new BlazeSlider(el2, {
                 src="/wk-training-logo-1500h.png"
                 className="home-es-image07"
               />
-              <span className="home-es-text095">
+              <span className="home-es-text096">
                 <span>WK Training</span>
                 <br></br>
                 <span>Fuengirola, Málaga</span>
@@ -1076,7 +1077,7 @@ new BlazeSlider(el2, {
                 src="/favicon-192x192-200h.png"
                 className="home-es-image08"
               />
-              <span className="home-es-text103">
+              <span className="home-es-text104">
                 © 2024 WKTraining - All rights reserved
               </span>
             </div>

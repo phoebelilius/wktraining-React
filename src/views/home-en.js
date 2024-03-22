@@ -922,8 +922,8 @@ new BlazeSlider(el2, {
               </h3>
               <p className="home-en-content16">
                 <span className="home-en-text123">
-                  They can be at NextGen Fight Club gym or for an extra cost at
-                  a personalized location. Send me a message!
+                  They will be at NextGen Fight Club or for an extra cost at a
+                  personalized location. Send me a message!
                 </span>
                 <br className="home-en-text124"></br>
                 <br className="home-en-text125"></br>

@@ -922,21 +922,21 @@ new BlazeSlider(el2, {
               </h3>
               <p className="home-en-content16">
                 <span className="home-en-text123">
-                  They will be at NextGen Fight Club or for an extra cost at a
-                  personalized location. Send me a message!
+                  They will be at NextGen Fight Club Fuengirola / Mijas Costa or
+                  for an extra cost at a personalized location. Send me a
+                  message!
                 </span>
                 <br className="home-en-text124"></br>
                 <br className="home-en-text125"></br>
                 <br className="home-en-text126"></br>
                 <a
-                  href="https://goo.gl/maps/ZTmxewL62pkV4dgT9"
+                  href="https://maps.app.goo.gl/F6H3RDwEDdx96JpY8"
                   target="_blank"
                   rel="noreferrer noopener"
                   className="home-en-link08"
                 >
-                  Nex
+                  NextGen Fight Club
                 </a>
-                <span className="home-en-text127">tGen Fight Club</span>
                 <br></br>
                 <br></br>
                 <br></br>
@@ -985,11 +985,11 @@ new BlazeSlider(el2, {
             <div className="home-en-element4">
               <h3 className="home-en-header21">What schedule do you have?</h3>
               <p className="home-en-content20">
-                <span className="home-en-text141">
+                <span className="home-en-text140">
                   I have a flexible schedule. Checkout my calendar for
                   availability!
                 </span>
-                <span className="home-en-text142">Booking calendar</span>
+                <span className="home-en-text141">Booking calendar</span>
               </p>
             </div>
             <div className="home-en-element5">
@@ -1019,7 +1019,7 @@ new BlazeSlider(el2, {
                 <br></br>
               </h3>
               <p className="home-en-content23">
-                <span className="home-en-text149">
+                <span className="home-en-text148">
                   You can message me on Facebook, Instagram or WhatsApp!
                 </span>
                 <br></br>
@@ -1075,7 +1075,7 @@ new BlazeSlider(el2, {
                 src="/wk-training-logo-1500h.png"
                 className="home-en-image07"
               />
-              <span className="home-en-text154">
+              <span className="home-en-text153">
                 <span>WK Training</span>
                 <br></br>
                 <span>Fuengirola, Málaga</span>
@@ -1133,7 +1133,7 @@ new BlazeSlider(el2, {
                 src="/favicon-192x192-200h.png"
                 className="home-en-image08"
               />
-              <span className="home-en-text162">
+              <span className="home-en-text161">
                 © 2024 WKTraining - All rights reserved
               </span>
             </div>

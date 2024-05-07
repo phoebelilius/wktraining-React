@@ -21,22 +21,6 @@ const HomeEn = (props) => {
           content="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/eea6a35f-439d-4bb5-9212-69ef86903565/7d3a9595-2129-4ab9-beb6-74cbf4d883b3?org_if_sml=1&amp;q=80&amp;force_format=original"
         />
       </Helmet>
-      <div className="home-en-container01">
-        <span className="home-en-text">
-          <span className="home-en-text001">
-            NOTICE:
-            <span
-              dangerouslySetInnerHTML={{
-                __html: ' ',
-              }}
-            />
-          </span>
-          <span>
-            I have limited availability to take on new clients while recovering
-            from a knee surgery. Contact me for more information!
-          </span>
-        </span>
-      </div>
       <section className="home-en-hero">
         <video
           src="/training.mp4"
@@ -63,7 +47,7 @@ const HomeEn = (props) => {
               data-role="Nav"
               className="home-en-nav"
             >
-              <div className="home-en-container02">
+              <div className="home-en-container01">
                 <img
                   alt="image"
                   src="/wk-training-logo-1500h.png"
@@ -100,7 +84,7 @@ const HomeEn = (props) => {
                   src="/external/pastedimage-6z36-1500h.png"
                 />
               </nav>
-              <div className="home-en-container03">
+              <div className="home-en-container02">
                 <a
                   href="https://calendly.com/wktraining"
                   target="_blank"
@@ -118,11 +102,11 @@ const HomeEn = (props) => {
           </div>
         </header>
         <div className="home-en-hero-content">
-          <div className="home-en-container04">
+          <div className="home-en-container03">
             <div className="home-en-header-container">
               <div className="home-en-header">
                 <h1 className="home-en-heading">
-                  <span className="home-en-text006">
+                  <span className="home-en-text003">
                     Unleash your inner fighter
                   </span>
                   <br></br>
@@ -143,7 +127,7 @@ const HomeEn = (props) => {
             rel="noreferrer noopener"
             className="home-en-link05 button"
           >
-            <span className="home-en-text010">
+            <span className="home-en-text007">
               <span>Go to booking</span>
               <br></br>
             </span>
@@ -301,7 +285,7 @@ const HomeEn = (props) => {
           </div>
         </div>
         <div>
-          <div className="home-en-container06">
+          <div className="home-en-container05">
             <Script
               html={`<script>
 const el = document.querySelector('.blaze-slider')
@@ -320,11 +304,11 @@ new BlazeSlider(el, {
       </section>
       <section className="home-en-objectives">
         <div className="home-en-content05">
-          <span className="home-en-text028">objectives</span>
+          <span className="home-en-text025">objectives</span>
           <div className="home-en-objectives-list">
             <div className="objective">
-              <h3 className="home-en-text029">Growth</h3>
-              <p className="home-en-text030">
+              <h3 className="home-en-text026">Growth</h3>
+              <p className="home-en-text027">
                 <span>
                   By improving your boxing technique and skills, you will
                   increase your self-confidence and grow as a person.
@@ -347,8 +331,8 @@ new BlazeSlider(el, {
               </p>
             </div>
             <div className="objective home-en-objective1">
-              <h3 className="home-en-text035">Fitness</h3>
-              <p className="home-en-text036">
+              <h3 className="home-en-text032">Fitness</h3>
+              <p className="home-en-text033">
                 <span>
                   The workouts will help you improve your physical condition,
                   strength, flexibility and your cardiovascular endurance.
@@ -357,8 +341,8 @@ new BlazeSlider(el, {
               </p>
             </div>
             <div className="objective home-en-objective2">
-              <h3 className="home-en-text039">Personal approach</h3>
-              <p className="home-en-text040">
+              <h3 className="home-en-text036">Personal approach</h3>
+              <p className="home-en-text037">
                 In my private classes, the focus is on you and your specific
                 goals. I personalize each session to help you improve in areas
                 of your choice.
@@ -399,8 +383,8 @@ new BlazeSlider(el, {
           </div>
           <div className="home-en-testimonial">
             <div className="home-en-content07">
-              <span className="home-en-text044">Testimonial</span>
-              <p className="home-en-text045">
+              <span className="home-en-text041">Testimonial</span>
+              <p className="home-en-text042">
                 <span>
                   “Wadi, a great coach and fighter, capable of teaching
                   different fighting styles and adapting to the student&apos;s
@@ -460,7 +444,7 @@ new BlazeSlider(el, {
                     <path d="M823.168 225.835l-439.168 439.168-183.168-183.168c-16.683-16.683-43.691-16.683-60.331 0s-16.683 43.691 0 60.331l213.333 213.333c16.683 16.683 43.691 16.683 60.331 0l469.333-469.333c16.683-16.683 16.683-43.691 0-60.331s-43.691-16.683-60.331 0z"></path>
                   </svg>
                 </div>
-                <span className="home-en-text050">
+                <span className="home-en-text047">
                   <span>
                     Boxing techniques: learn attack and defense techniques
                   </span>
@@ -480,7 +464,7 @@ new BlazeSlider(el, {
                     <path d="M823.168 225.835l-439.168 439.168-183.168-183.168c-16.683-16.683-43.691-16.683-60.331 0s-16.683 43.691 0 60.331l213.333 213.333c16.683 16.683 43.691 16.683 60.331 0l469.333-469.333c16.683-16.683 16.683-43.691 0-60.331s-43.691-16.683-60.331 0z"></path>
                   </svg>
                 </div>
-                <span className="home-en-text054">
+                <span className="home-en-text051">
                   <span>
                     Physical training: specific exercises to improve strength,
                     endurance, speed and agility
@@ -494,7 +478,7 @@ new BlazeSlider(el, {
                     <path d="M823.168 225.835l-439.168 439.168-183.168-183.168c-16.683-16.683-43.691-16.683-60.331 0s-16.683 43.691 0 60.331l213.333 213.333c16.683 16.683 43.691 16.683 60.331 0l469.333-469.333c16.683-16.683 16.683-43.691 0-60.331s-43.691-16.683-60.331 0z"></path>
                   </svg>
                 </div>
-                <span className="home-en-text057">
+                <span className="home-en-text054">
                   <span>
                     Strategies and tactics: advanced techniques to apply during
                     boxing fights
@@ -508,7 +492,7 @@ new BlazeSlider(el, {
                     <path d="M823.168 225.835l-439.168 439.168-183.168-183.168c-16.683-16.683-43.691-16.683-60.331 0s-16.683 43.691 0 60.331l213.333 213.333c16.683 16.683 43.691 16.683 60.331 0l469.333-469.333c16.683-16.683 16.683-43.691 0-60.331s-43.691-16.683-60.331 0z"></path>
                   </svg>
                 </div>
-                <span className="home-en-text060">
+                <span className="home-en-text057">
                   <span>
                     Mental coaching: mental preparation for both day to day and
                     combat, including visualization, concentration and
@@ -521,8 +505,8 @@ new BlazeSlider(el, {
           </div>
           <div className="home-en-testimonial1">
             <div className="home-en-content09">
-              <span className="home-en-text063">Testimonial</span>
-              <p className="home-en-text064">
+              <span className="home-en-text060">Testimonial</span>
+              <p className="home-en-text061">
                 “Wadii has managed to free me from prejudices, even though I
                 already have gray hair, and has adapted the training to my
                 physical level. Every day he tests me and makes me surpass
@@ -549,7 +533,7 @@ new BlazeSlider(el, {
           <div className="home-en-header13">
             <h2 className="home-en-heading08">
               <span>Book a trial class at </span>
-              <span className="home-en-text066">-75%</span>
+              <span className="home-en-text063">-75%</span>
               <span> now!</span>
               <br></br>
             </h2>
@@ -639,8 +623,8 @@ new BlazeSlider(el, {
           <div className="home-en-row">
             <div className="home-en-plans">
               <div className="home-en-row01">
-                <span className="home-en-text083">Placeholder</span>
-                <span className="home-en-text084">
+                <span className="home-en-text080">Placeholder</span>
+                <span className="home-en-text081">
                   <span>prices</span>
                   <br></br>
                 </span>
@@ -650,7 +634,7 @@ new BlazeSlider(el, {
           <div className="home-en-row02">
             <div className="home-en-plans01">
               <div className="home-en-row03">
-                <span className="home-en-text087">Personalized attention</span>
+                <span className="home-en-text084">Personalized attention</span>
                 <div className="value">
                   <Check></Check>
                 </div>
@@ -660,7 +644,7 @@ new BlazeSlider(el, {
           <div className="home-en-row04">
             <div className="home-en-plans02">
               <div className="home-en-row05">
-                <span className="home-en-text088">Video analysis</span>
+                <span className="home-en-text085">Video analysis</span>
                 <div className="value">
                   <Check></Check>
                 </div>
@@ -670,10 +654,10 @@ new BlazeSlider(el, {
           <div className="home-en-row06">
             <div className="home-en-plans03">
               <div className="home-en-row07">
-                <span className="home-en-text089">Trial class</span>
+                <span className="home-en-text086">Trial class</span>
                 <div className="value">
-                  <span className="home-en-text090">
-                    <span className="home-en-text091">-75% (=10€)</span>
+                  <span className="home-en-text087">
+                    <span className="home-en-text088">-75% (=10€)</span>
                     <br></br>
                   </span>
                 </div>
@@ -683,9 +667,9 @@ new BlazeSlider(el, {
           <div className="home-en-row08">
             <div className="home-en-plans04">
               <div className="home-en-row09">
-                <span className="home-en-text093">Price for single class</span>
+                <span className="home-en-text090">Price for single class</span>
                 <div className="value">
-                  <span className="home-en-text094">40€</span>
+                  <span className="home-en-text091">40€</span>
                 </div>
               </div>
             </div>
@@ -693,11 +677,11 @@ new BlazeSlider(el, {
           <div className="home-en-row10">
             <div className="home-en-plans05">
               <div className="home-en-row11">
-                <span className="home-en-text095">
+                <span className="home-en-text092">
                   Price for 5 class voucher
                 </span>
                 <div className="value">
-                  <span className="home-en-text096">35€/clase</span>
+                  <span className="home-en-text093">35€/clase</span>
                 </div>
               </div>
             </div>
@@ -705,11 +689,11 @@ new BlazeSlider(el, {
           <div className="home-en-row12">
             <div className="home-en-plans06">
               <div className="home-en-row13">
-                <span className="home-en-text097">
+                <span className="home-en-text094">
                   Price for 10 class voucher
                 </span>
                 <div className="value">
-                  <span className="home-en-text098">30€/clase</span>
+                  <span className="home-en-text095">30€/clase</span>
                 </div>
               </div>
             </div>
@@ -717,9 +701,9 @@ new BlazeSlider(el, {
           <div className="home-en-row14">
             <div className="home-en-plans07">
               <div className="home-en-row15">
-                <span className="home-en-text099">Location of choice</span>
+                <span className="home-en-text096">Location of choice</span>
                 <div className="value">
-                  <span className="home-en-text100">10€</span>
+                  <span className="home-en-text097">10€</span>
                 </div>
               </div>
             </div>
@@ -727,9 +711,9 @@ new BlazeSlider(el, {
           <div className="home-en-row16">
             <div className="home-en-plans08">
               <div className="home-en-row17">
-                <span className="home-en-text101">Discount for 2 people</span>
+                <span className="home-en-text098">Discount for 2 people</span>
                 <div className="value">
-                  <span className="home-en-text102">-25%</span>
+                  <span className="home-en-text099">-25%</span>
                 </div>
               </div>
             </div>
@@ -737,9 +721,9 @@ new BlazeSlider(el, {
           <div className="home-en-row18">
             <div className="home-en-plans09">
               <div className="home-en-row19">
-                <span className="home-en-text103">Discount for 3+ people</span>
+                <span className="home-en-text100">Discount for 3+ people</span>
                 <div className="value">
-                  <span className="home-en-text104">-50%</span>
+                  <span className="home-en-text101">-50%</span>
                 </div>
               </div>
             </div>
@@ -890,7 +874,7 @@ new BlazeSlider(el, {
             </div>
           </div>
           <div>
-            <div className="home-en-container08">
+            <div className="home-en-container07">
               <Script
                 html={`<script>
 const el2 = document.querySelector('.someslider')
@@ -921,14 +905,14 @@ new BlazeSlider(el2, {
                 <br></br>
               </h3>
               <p className="home-en-content16">
-                <span className="home-en-text123">
+                <span className="home-en-text120">
                   They will be at NextGen Fight Club Fuengirola / Mijas Costa or
                   for an extra cost at a personalized location. Send me a
                   message!
                 </span>
-                <br className="home-en-text124"></br>
-                <br className="home-en-text125"></br>
-                <br className="home-en-text126"></br>
+                <br className="home-en-text121"></br>
+                <br className="home-en-text122"></br>
+                <br className="home-en-text123"></br>
                 <a
                   href="https://maps.app.goo.gl/F6H3RDwEDdx96JpY8"
                   target="_blank"
@@ -985,11 +969,18 @@ new BlazeSlider(el2, {
             <div className="home-en-element4">
               <h3 className="home-en-header21">What schedule do you have?</h3>
               <p className="home-en-content20">
-                <span className="home-en-text140">
+                <span className="home-en-text137">
                   I have a flexible schedule. Checkout my calendar for
                   availability!
                 </span>
-                <span className="home-en-text141">Booking calendar</span>
+                <a
+                  href="https://calendly.com/wktraining"
+                  target="_blank"
+                  rel="noreferrer noopener"
+                  className="home-en-link09"
+                >
+                  Booking calendar
+                </a>
               </p>
             </div>
             <div className="home-en-element5">
@@ -1007,7 +998,7 @@ new BlazeSlider(el2, {
               <p className="home-en-content22">
                 <span>
                   Book your first class by clicking on the reservation button.
-                  The trial class has a discount of -70% (individual trial class
+                  The trial class has a discount of -75% (individual trial class
                   €10).
                 </span>
                 <br></br>
@@ -1019,7 +1010,7 @@ new BlazeSlider(el2, {
                 <br></br>
               </h3>
               <p className="home-en-content23">
-                <span className="home-en-text148">
+                <span className="home-en-text144">
                   You can message me on Facebook, Instagram or WhatsApp!
                 </span>
                 <br></br>
@@ -1030,7 +1021,7 @@ new BlazeSlider(el2, {
                   href="https://m.facebook.com/WadiiKadiri/"
                   target="_blank"
                   rel="noreferrer noopener"
-                  className="home-en-link09"
+                  className="home-en-link10"
                 >
                   Facebook
                 </a>
@@ -1047,7 +1038,7 @@ new BlazeSlider(el2, {
                 href="https://www.instagram.com/wazaek"
                 target="_blank"
                 rel="noreferrer noopener"
-                className="home-en-link10"
+                className="home-en-link11"
               >
                 <p className="home-en-content25">Instagram</p>
               </a>
@@ -1058,8 +1049,8 @@ new BlazeSlider(el2, {
             </div>
           </div>
         </div>
-        <div className="home-en-container09">
-          <div className="home-en-container10">
+        <div className="home-en-container08">
+          <div className="home-en-container09">
             <Script
               html={`<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/CrGKatHITFJ/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:16px;"> <a href="https://www.instagram.com/reel/Cr3m9ogrebz/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"> <div style=" display: flex; flex-direction: row; align-items: center;"> <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div> <div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"> <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;">View this post on Instagram</div></div><div style="padding: 12.5% 0;"></div> <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div> <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"> <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div> <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"> <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div> <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div> <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div></div></a><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/reel/Cr3m9ogrebz/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A post shared by Wadii Kadiri (@wazaek)</a></p></div></blockquote> <script async src="//www.instagram.com/embed.js"></script>`}
             ></Script>
@@ -1075,7 +1066,7 @@ new BlazeSlider(el2, {
                 src="/wk-training-logo-1500h.png"
                 className="home-en-image07"
               />
-              <span className="home-en-text153">
+              <span className="home-en-text149">
                 <span>WK Training</span>
                 <br></br>
                 <span>Fuengirola, Málaga</span>
@@ -1088,16 +1079,16 @@ new BlazeSlider(el2, {
                   <br></br>
                 </span>
                 <div className="home-en-list">
-                  <a href="#quien-soy" className="home-en-link11">
+                  <a href="#quien-soy" className="home-en-link12">
                     About me
                   </a>
-                  <a href="#info-clases" className="home-en-link12">
+                  <a href="#info-clases" className="home-en-link13">
                     Information
                   </a>
-                  <a href="#faq" className="home-en-link13">
+                  <a href="#faq" className="home-en-link14">
                     FAQ
                   </a>
-                  <a href="#testimoniales" className="home-en-link14">
+                  <a href="#testimoniales" className="home-en-link15">
                     <span>Testimonials</span>
                     <br></br>
                   </a>
@@ -1110,7 +1101,7 @@ new BlazeSlider(el2, {
                     href="https://www.instagram.com/wazaek"
                     target="_blank"
                     rel="noreferrer noopener"
-                    className="home-en-link15"
+                    className="home-en-link16"
                   >
                     Instagram
                   </a>
@@ -1118,7 +1109,7 @@ new BlazeSlider(el2, {
                     href="https://m.facebook.com/WadiiKadiri/"
                     target="_blank"
                     rel="noreferrer noopener"
-                    className="home-en-link16"
+                    className="home-en-link17"
                   >
                     Facebook
                   </a>
@@ -1127,13 +1118,13 @@ new BlazeSlider(el2, {
             </div>
           </div>
           <div className="home-en-bottom">
-            <div className="home-en-container11">
+            <div className="home-en-container10">
               <img
                 alt="image"
                 src="/favicon-192x192-200h.png"
                 className="home-en-image08"
               />
-              <span className="home-en-text161">
+              <span className="home-en-text157">
                 © 2024 WKTraining - All rights reserved
               </span>
             </div>
@@ -1144,7 +1135,7 @@ new BlazeSlider(el2, {
         </div>
       </div>
       <div>
-        <div className="home-en-container13">
+        <div className="home-en-container12">
           <Script
             html={`<script>
 if (document.readyState !== 'loading') {
@@ -1174,8 +1165,8 @@ function myInitCode() {
           ></Script>
         </div>
       </div>
-      <div className="home-en-container14">
-        <div className="home-en-container15">
+      <div className="home-en-container13">
+        <div className="home-en-container14">
           <Script
             html={`<style>
 .float{

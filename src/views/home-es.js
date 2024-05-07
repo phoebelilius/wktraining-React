@@ -514,7 +514,7 @@ new BlazeSlider(el, {
                   }}
                 />
               </span>
-              <span className="home-es-text033">-70%</span>
+              <span className="home-es-text033">-75%</span>
               <span> </span>
               <span>ahora!</span>
               <br></br>
@@ -639,7 +639,7 @@ new BlazeSlider(el, {
                 <span className="home-es-text057">Primera clase</span>
                 <div className="value">
                   <span className="home-es-text058">
-                    <span className="home-es-text059">-70% (=10€)</span>
+                    <span className="home-es-text059">-75% (=10€)</span>
                     <br></br>
                   </span>
                 </div>
@@ -651,7 +651,7 @@ new BlazeSlider(el, {
               <div className="home-es-row09">
                 <span className="home-es-text061">Precio clase suelta</span>
                 <div className="value">
-                  <span className="home-es-text062">35€</span>
+                  <span className="home-es-text062">40€</span>
                 </div>
               </div>
             </div>
@@ -661,7 +661,7 @@ new BlazeSlider(el, {
               <div className="home-es-row11">
                 <span className="home-es-text063">Precio bono de 5 clases</span>
                 <div className="value">
-                  <span className="home-es-text064">30€/clase</span>
+                  <span className="home-es-text064">35€/clase</span>
                 </div>
               </div>
             </div>
@@ -673,7 +673,7 @@ new BlazeSlider(el, {
                   Precio bono de 10 clases
                 </span>
                 <div className="value">
-                  <span className="home-es-text066">25€/clase</span>
+                  <span className="home-es-text066">30€/clase</span>
                 </div>
               </div>
             </div>

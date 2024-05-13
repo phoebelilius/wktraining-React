@@ -288,7 +288,7 @@ const HomeEn = (props) => {
           <div className="home-en-container05">
             <Script
               html={`<script>
-const el = document.querySelector('.blaze-slider')
+let el = document.querySelector('.blaze-slider')
 new BlazeSlider(el, {
   all: {
     slidesToShow: 3,
@@ -877,7 +877,7 @@ new BlazeSlider(el, {
             <div className="home-en-container07">
               <Script
                 html={`<script>
-const el2 = document.querySelector('.someslider')
+let el2 = document.querySelector('.someslider')
 
 new BlazeSlider(el2, {
   all: {

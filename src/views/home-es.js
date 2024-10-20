@@ -569,7 +569,7 @@ new BlazeSlider(el_es, {
           <p className="home-es-caption24">
             <span>
               Además, mis horarios son flexibles, incluyendo disponibilidad de
-              lunes a domingo, tanto en la mañana como en la tarde. No dudes en
+              lunes a sábado, tanto en la mañana como en la tarde. No dudes en
               contactarme para ponernos de acuerdo en los días y horarios que
               mejor se adapten a tu agenda. Reserva tu clase privada de boxeo
               personalizada y comienza a alcanzar tus metas hoy mismo.

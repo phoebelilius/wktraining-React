@@ -662,7 +662,7 @@ new BlazeSlider(el, {
                 <span className="home-en-text186">Trial class</span>
                 <div className="value">
                   <span className="home-en-text187">
-                    <span className="home-en-text188">-75% (=10€)</span>
+                    <span className="home-en-text188">-66% (=15€)</span>
                     <br></br>
                   </span>
                 </div>
@@ -674,7 +674,7 @@ new BlazeSlider(el, {
               <div className="home-en-row19">
                 <span className="home-en-text190">Price for single class</span>
                 <div className="value">
-                  <span className="home-en-text191">40€</span>
+                  <span className="home-en-text191">45€</span>
                 </div>
               </div>
             </div>
@@ -686,7 +686,7 @@ new BlazeSlider(el, {
                   Price for 5 class voucher
                 </span>
                 <div className="value">
-                  <span className="home-en-text193">35€/clase</span>
+                  <span className="home-en-text193">40€/clase</span>
                 </div>
               </div>
             </div>
@@ -695,10 +695,10 @@ new BlazeSlider(el, {
             <div className="home-en-plans16">
               <div className="home-en-row23">
                 <span className="home-en-text194">
-                  Price for 10 class voucher
+                  Price for 10 class voucher (subject to availability)
                 </span>
                 <div className="value">
-                  <span className="home-en-text195">30€/clase</span>
+                  <span className="home-en-text195">35€/clase</span>
                 </div>
               </div>
             </div>
@@ -708,7 +708,7 @@ new BlazeSlider(el, {
               <div className="home-en-row25">
                 <span className="home-en-text196">Location of choice</span>
                 <div className="value">
-                  <span className="home-en-text197">10€</span>
+                  <span className="home-en-text197">Ask for pricing</span>
                 </div>
               </div>
             </div>

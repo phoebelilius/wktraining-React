@@ -627,7 +627,7 @@ new BlazeSlider(el_es, {
                 <span className="home-es-text64">Primera clase</span>
                 <div className="value">
                   <span className="home-es-text65">
-                    <span className="home-es-text66">-75% (=10€)</span>
+                    <span className="home-es-text66">-66% (=15€)</span>
                     <br></br>
                   </span>
                 </div>
@@ -639,7 +639,7 @@ new BlazeSlider(el_es, {
               <div className="home-es-row19">
                 <span className="home-es-text68">Precio clase suelta</span>
                 <div className="value">
-                  <span className="home-es-text69">40€</span>
+                  <span className="home-es-text69">45€</span>
                 </div>
               </div>
             </div>
@@ -649,7 +649,7 @@ new BlazeSlider(el_es, {
               <div className="home-es-row21">
                 <span className="home-es-text70">Precio bono de 5 clases</span>
                 <div className="value">
-                  <span className="home-es-text71">35€/clase</span>
+                  <span className="home-es-text71">40€/clase</span>
                 </div>
               </div>
             </div>
@@ -657,9 +657,9 @@ new BlazeSlider(el_es, {
           <div className="home-es-row22">
             <div className="home-es-plans16">
               <div className="home-es-row23">
-                <span className="home-es-text72">Precio bono de 10 clases</span>
+                <span className="home-es-text72">Precio bono de 10 clases (sujeto a disponibilidad)</span>
                 <div className="value">
-                  <span className="home-es-text73">30€/clase</span>
+                  <span className="home-es-text73">35€/clase</span>
                 </div>
               </div>
             </div>
@@ -669,7 +669,7 @@ new BlazeSlider(el_es, {
               <div className="home-es-row25">
                 <span className="home-es-text74">Locación personalizada</span>
                 <div className="value">
-                  <span className="home-es-text75">10€</span>
+                  <span className="home-es-text75">Pregunta</span>
                 </div>
               </div>
             </div>

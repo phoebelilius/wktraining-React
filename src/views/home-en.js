@@ -662,7 +662,7 @@ new BlazeSlider(el, {
                 <span className="home-en-text186">Trial class</span>
                 <div className="value">
                   <span className="home-en-text187">
-                    <span className="home-en-text188">-75% (=10€)</span>
+                    <span className="home-en-text188">-66% (=15€)</span>
                     <br></br>
                   </span>
                 </div>
@@ -708,7 +708,7 @@ new BlazeSlider(el, {
               <div className="home-en-row25">
                 <span className="home-en-text196">Location of choice</span>
                 <div className="value">
-                  <span className="home-en-text197">10€</span>
+                  <span className="home-en-text197">Ask for pricing</span>
                 </div>
               </div>
             </div>

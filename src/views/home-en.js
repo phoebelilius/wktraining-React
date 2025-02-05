@@ -686,7 +686,7 @@ new BlazeSlider(el, {
                   Price for 5 class voucher
                 </span>
                 <div className="value">
-                  <span className="home-en-text193">40€/clase</span>
+                  <span className="home-en-text193">40€/class</span>
                 </div>
               </div>
             </div>
@@ -698,7 +698,7 @@ new BlazeSlider(el, {
                   Price for 10 class voucher (subject to availability)
                 </span>
                 <div className="value">
-                  <span className="home-en-text195">35€/clase</span>
+                  <span className="home-en-text195">35€/class</span>
                 </div>
               </div>
             </div>

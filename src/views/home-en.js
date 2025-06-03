@@ -363,26 +363,13 @@ new BlazeSlider(el, {
               <div className="home-en-header20">
                 <h2 className="home-en-heading16">About me</h2>
               </div>
-              <p className="home-en-caption20">
-                <span>
-                  Hi, I am Wadii! I was champion of Andalusia in 2014 and of NSW
-                  (Australia) in 2018 in the world of martial arts. I have
-                  traveled all over the world and have gained a wealth of
-                  experience and new techniques.
-                  <span
-                    dangerouslySetInnerHTML={{
-                      __html: ' ',
-                    }}
-                  />
-                </span>
-                <br></br>
-                <span>
-                  Now, I have decided to dedicate my time to my passion:
-                  competing at a professional level and teaching martial arts. I
-                  would love to share my knowledge with you and help you achieve
-                  your goals in this sport that I love so much. Join my classes
-                  and together we will take your skills to the next level!
-                </span>
+              <p className="home-es-text33">
+                Hi! I'm <strong>Wadii Kadiri</strong>, a professional fighter and coach with over <strong>50 fights</strong> in <em>K1, Muay Thai, Kickboxing, and Boxing</em>.<br></br><br></br>
+                I've trained and competed around the world, learning unique techniques that I now share in every class. I’m also:<br></br><br></br>
+                - 🏆 Andalusia Champion (2014) and NSW, Australia Champion (2018).<br></br><br></br>
+                - 🎓 Certified as a <strong>National Muay Thai Coach</strong> and <strong>Boxing Coach</strong> by the Spanish Boxing Federation.<br></br><br></br>
+                My goal is to help you improve both physically and mentally, no matter your level. My classes combine technique, conditioning, and motivation so you can enjoy the process while leveling up.<br></br><br></br>
+                Train with me and take your skills to the next level!
               </p>
             </div>
           </div>

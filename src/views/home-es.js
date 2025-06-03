@@ -69,7 +69,7 @@ const HomeEs = (props) => {
                 className="home-es-nav2"
               >
                 <a href="#quien-soy" className="home-es-link10">
-                  Quien soy?
+                  Quién soy?
                 </a>
                 <a href="#info-clases" className="home-es-link11">
                   Información clases
@@ -346,20 +346,16 @@ new BlazeSlider(el_es, {
             <div className="home-es-header-container2">
               <div className="home-es-header20">
                 <h2 className="home-es-heading16">
-                  <span>¿Quién soy</span>
-                  <span>?</span>
+                  <span>¿Quién soy?</span>
                 </h2>
               </div>
-              <p className="home-es-caption20">
-                Hola, soy Wadii, campeón de Andalucía en 2014 y de NSW
-                (Australia) en 2018 en el mundo de las artes marciales. He
-                viajado por todo el mundo y he adquirido una gran experiencia y
-                técnicas nuevas. Ahora, he decidido dedicar mi tiempo a mi
-                pasión: competir a nivel profesional y enseñar artes marciales.
-                Me encantaría compartir mis conocimientos contigo y ayudarte a
-                alcanzar tus objetivos en este deporte que tanto amo. ¡Únete a
-                mis clases y juntos llevaremos tus habilidades al siguiente
-                nivel!
+              <p className="home-es-text33">
+              ¡Hola! Soy <strong>Wadii Kadiri</strong>, luchador profesional y entrenador con más de <strong>50 combates</strong> en <em>K1, Muay Thai, Kick Boxing y Boxeo</em>.<br></br><br></br>
+              He entrenado y competido por todo el mundo, aprendiendo técnicas únicas que hoy comparto en cada clase. También soy:<br></br><br></br>
+              - 🏆 Campeón de Andalucía (2014) y de NSW, Australia (2018).<br></br><br></br>
+              - 🎓 Titulado como <strong>Entrenador Nacional de Muay Thai</strong> y <strong>Entrenador de Boxeo</strong> por la Real Federación Española de Boxeo.<br></br><br></br>
+              Mi objetivo es ayudarte a mejorar física y mentalmente, sin importar tu nivel. Mis clases combinan técnica, acondicionamiento y motivación para que disfrutes mientras te superas.<br></br>
+              <br></br>¡Entrena conmigo y lleva tus habilidades al siguiente nivel!
               </p>
             </div>
           </div>
@@ -1024,7 +1020,7 @@ new BlazeSlider(el2_es, {
                 </span>
                 <div className="home-es-list1">
                   <a href="#quien-soy" className="home-es-link22">
-                    Quien soy?
+                    Quién soy?
                   </a>
                   <a href="#info-clases" className="home-es-link23">
                     Información clases

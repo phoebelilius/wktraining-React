@@ -1,3 +1,8 @@
+h2 {
+  font-family: 'Bebas Neue';
+  font-size: 1.5em;
+}
+
 .home-es-container10 {
   width: 100%;
   display: flex;
@@ -26,6 +31,7 @@
   position: absolute;
   box-shadow: 5px 5px 10px 0px #343131;
   object-fit: cover;
+  object-position: center 30%;
 }
 .home-es-navbar {
   width: 100%;
@@ -210,24 +216,31 @@
 }
 .home-es-heading10 {
   color: var(--dl-color-primary-100);
-  font-size: 100px;
-  max-width: 790px;
+  font-size: 120px;
+  /* max-width: 790px; */
   font-style: normal;
-  font-family: "Protest Guerrilla";
-  font-weight: 500;
+  font-family: "Bebas Neue";
+  font-weight: 600;
 }
 .home-es-caption10 {
+  font-family: 'Bebas Neue';
   color: rgb(255, 255, 255);
-  font-size: 24px;
+  font-size: 2em;
   max-width: 600px;
   line-height: 36px;
+}
+.highlight {
+  color: var(--dl-color-primary-100);
 }
 .home-es-link15 {
   text-decoration: none;
   background-color: var(--dl-color-primary-100);
+  font-family: "Bebas Neue";
+  font-size: 2em;
+  color: black;
 }
 .home-es-text15 {
-  letter-spacing: 5px;
+  /* letter-spacing: 5px; */
   text-transform: uppercase;
 }
 .home-es-note {
@@ -260,6 +273,7 @@
   padding-right: var(--dl-space-space-fiveunits);
   flex-direction: column;
   padding-bottom: var(--dl-space-space-fiveunits);
+  padding-top: var(--dl-space-space-fiveunits);
   justify-content: center;
 }
 .home-es-content10 {
@@ -3050,9 +3064,9 @@
   }
   .home-es-heading10 {
     color: var(--dl-color-primary-100);
-    font-size: 60px;
+    font-size: 90px;
     font-style: normal;
-    font-weight: 500;
+    /* font-weight: 500; */
   }
   .home-es-note {
     align-items: flex-start;
@@ -3673,17 +3687,17 @@
   }
   .home-es-heading10 {
     color: var(--dl-color-primary-100);
-    font-size: 50px;
+    font-size: 90px;
     align-self: flex-start;
     font-style: normal;
     text-align: center;
-    font-weight: 500;
+    /* font-weight: 500; */
   }
   .home-es-text13 {
     font-weight: 900;
   }
   .home-es-caption10 {
-    font-size: 16px;
+    font-size: 1.5em;
     text-align: center;
     line-height: 24px;
   }
